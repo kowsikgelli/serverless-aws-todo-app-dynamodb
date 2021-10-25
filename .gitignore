@@ -1,0 +1,5 @@
+package-lock.json
+.serverless
+.webpack
+.dynamodb
+/node_modules
